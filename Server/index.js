@@ -6,7 +6,7 @@ const PORT = process.env.PORT || 3030;
 
 const server = socketio(PORT);
 
-const messages = server.of('./messages');
+const messages = server.of('/messages');
 
 
 
