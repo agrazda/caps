@@ -14,7 +14,7 @@ Alex Grazda
 
 
 ## Collaborators  
-- Kayson Braley
-- Stefanie Rheile
+- Kason Braley
+- Stefanie Riehle
 - Chattray Chea
 - Typed lab followed allong in class
